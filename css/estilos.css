@@ -113,16 +113,21 @@ header {
         .main .trabajos .contenedor-trabajos .trabajo .thumb img {
           vertical-align: top;
           width: 100%;
-          border-radius: 3px; }
+          border-radius: 5px; }
       .main .trabajos .contenedor-trabajos .trabajo .descripcion {
-        text-align: center; }
+        text-align: center; 
+        vertical-align: middle;
+      }
         .main .trabajos .contenedor-trabajos .trabajo .descripcion .nombre {
           font-weight: 700;
           color: #3895ea;
-          margin-bottom: 10px; }
+          margin-bottom: 10px; 
+          vertical-align: middle;
+        }
         .main .trabajos .contenedor-trabajos .trabajo .descripcion .categoria {
           font-size: 14px;
-          color: #636363; }
+          color: #636363; 
+        vertical-align: middle;}
 
 /* ----- ----- FOOTER ----- ----- */
 footer .contacto {
