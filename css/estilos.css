@@ -105,14 +105,14 @@ header {
     flex-wrap: wrap;
     justify-content: space-between; }
     .main .trabajos .contenedor-trabajos .trabajo {
-      width: 50%;
+      width: 49%;
       margin-bottom: 40px; }
       .main .trabajos .contenedor-trabajos .trabajo .thumb {
         width: 100%;
         margin-bottom: 10px; }
         .main .trabajos .contenedor-trabajos .trabajo .thumb img {
           vertical-align: top;
-          width: 100%;
+          width: 99%;
           border-radius: 3px; }
       .main .trabajos .contenedor-trabajos .trabajo .descripcion {
         text-align: center; }
